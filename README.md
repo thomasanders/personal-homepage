@@ -2,11 +2,11 @@
 
 This is my portfolio! You can find here information about me, my skills and see my projects.
 
-![Personal Homepage - Artur Feliks](https://github.com/arczi147/homepage/assets/128419757/9aa6e39e-8e04-48c2-a491-362a0160c373)
+![Personal Homepage - Andrzej Hryniewicz]()
 
 ## Demo
 
-https://arczi147.github.io/personal-homepage/
+https://thomasanders.github.io/personal-homepage/
 
 ## What was used in this project?
 
