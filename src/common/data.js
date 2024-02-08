@@ -1,4 +1,4 @@
-export const email = "arturfeliks4@gmail.com";
+export const email = "andrzej.krzysztof.hryniewicz@gmail.com";
 
 export const skillList = [
     "HTML",
@@ -28,7 +28,9 @@ export const skillList = [
 ];
 
 export const futureSkillList = [
-    "React Content",
+    "Flutter",
+    "Mobile Apps",
+    "Game Developing",
     "Node.js",
     "Cypress",
     "Unit testing",
@@ -36,4 +38,4 @@ export const futureSkillList = [
     "JS classes",
 ];
 
-export const GitHubAPI = "https://api.github.com/users/arczi147/repos";
+export const GitHubAPI = "https://api.github.com/users/thomasanders/repos";
