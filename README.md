@@ -2,7 +2,7 @@
 
 This is my portfolio! You can find here information about me, my skills and see my projects.
 
-![Personal Homepage - Andrzej Hryniewicz]()
+![[Personal Homepage](https://github.com/thomasanders/personal-homepage/blob/main/sc.png)]()
 
 ## Demo
 
