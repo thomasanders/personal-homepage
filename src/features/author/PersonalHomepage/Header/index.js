@@ -12,7 +12,7 @@ export const Header = () => {
                 <ThisIs>This is</ThisIs>
                 <Name>Andrzej Hryniewicz</Name>
                 <Content>
-                    👦💻 I'm an impassioned Junior Frontend Developer. In free time I'm developing
+                    👦💻 I'm an impassioned  Frontend Developer. In free time I'm developing
                     my skills in&nbsp;React and searching new learning possibilities. In&nbsp;the future I want
                     to work on interesting, large projects.
                 </Content>
